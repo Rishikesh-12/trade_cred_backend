@@ -1,0 +1,10 @@
+numpy
+pandas
+gunicorn
+Flask
+Flask-Session
+flask-cors
+Flask-Cors
+flask_cors
+Werkzeug
+xlrd
